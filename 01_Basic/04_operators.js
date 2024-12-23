@@ -7,3 +7,5 @@ let exp = 3**3 // Exponentiation
 let mod = 18%4 // Modulus (Remainder)
 
 console.table([sum,sub,mult,div,exp,mod])
+
+// 2. Comparision Operators
